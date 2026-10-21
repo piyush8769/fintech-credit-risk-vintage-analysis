@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large raw & processed transactional datasets (>20MB)
+data/loan_portfolio_raw.csv
+data/loan_portfolio_clean.csv

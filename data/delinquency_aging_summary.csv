@@ -1,0 +1,6 @@
+AgingBucket,LoanCount,TotalExposure,TotalWriteOff,ExposureShare_Pct
+0. Current / Performing,88995,1407505000,0.0,84.79
+1. 1-29 DPD (Grace),659,10361000,0.0,0.62
+2. 30-59 DPD,655,10327000,0.0,0.62
+3. 60-89 DPD,581,9128000,0.0,0.55
+4. 90+ DPD (NPA),14110,222766000,156626372.56,13.42
